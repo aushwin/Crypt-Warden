@@ -1,11 +1,14 @@
 import { Fragment } from "react"
-import { NavBar,List,Detail } from "./components/index"
+import { Router, Routes } from "react-router-dom"
+import { NavBar,Mid,Detail } from "./components/index"
 
 const app = ()=>{
   return <div className="flex flex-row h-screen w-screen gap-[0.1rem] ">
+
     <NavBar />
-    <List />
+    <Mid />
     <Detail />
+ 
   </div>
 }
 
