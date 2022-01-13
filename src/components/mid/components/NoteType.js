@@ -1,5 +1,5 @@
 const NoteType = ()=>{
-    return <div>Card Type</div>
+    return <div>Note Type</div>
 }
 
 export default NoteType

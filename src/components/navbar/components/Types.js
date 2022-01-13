@@ -10,7 +10,7 @@ const Types = ()=>{
         <Item icon={<RiLoginBoxFill className="text-nav-icon-color"  />} title="Login" />
         <Item icon={<BsFillCreditCard2FrontFill className="text-nav-icon-color" />} title="Card" />
         <Item icon={<IoDocuments className="text-nav-icon-color" />} title="Document" />
-        <Item icon={<FaStickyNote className="text-nav-icon-color" />} title="Document" />
+        <Item icon={<FaStickyNote className="text-nav-icon-color" />} title="Note" />
 
         
     </div>
