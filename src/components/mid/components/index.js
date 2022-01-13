@@ -3,3 +3,5 @@ export {default as LoginType} from './LoginType'
 export {default as CardType} from './CardType'
 export {default as DocumentType} from './DocumentType'
 export {default as NoteType} from './NoteType'
+
+export {default as SearchBar} from './ui/SearchBar'
